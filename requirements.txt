@@ -1,0 +1,8 @@
+streamlit
+pandas
+supabase
+geopy
+numpy
+scikit-learn
+st-gsheets-connection
+requests
