@@ -22,7 +22,6 @@ Facilitar la organización de viajes diarios de empleados:
 - [ ] Carga de empleados desde archivo Excel
 - [ ] Carga de choferes desde archivo Excel
 - [ ] Geocodificación de direcciones
-- [ ] Visualización de puntos en un mapa
 - [ ] Cálculo de distancias entre empleados
 - [ ] Asignación automática de choferes
 - [ ] Interfaz gráfica simple para uso administrativo
@@ -36,7 +35,6 @@ Facilitar la organización de viajes diarios de empleados:
 - Pandas
 - APIs de mapas (Google Maps / OpenStreetMap)
 - Streamlit (interfaz de usuario)
-- Folium / Mapas interactivos
 - Git & GitHub
 
 
