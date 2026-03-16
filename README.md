@@ -47,6 +47,7 @@ Facilitar la organización de viajes diarios de empleados:
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -55,3 +56,5 @@ Facilitar la organización de viajes diarios de empleados:
 
 
 
+=======
+>>>>>>> 9c01cd60fd8de5f40576a21221ac674f082230c8
