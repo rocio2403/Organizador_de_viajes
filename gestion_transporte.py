@@ -4,9 +4,6 @@ import pandas as pd
 from datetime import date
 import time
 from supabase import create_client
-
-# Solo importamos la lógica de asignación y resultados
-# Se eliminaron los imports de geolocalización ya que la data viene lista de la DB
 from src.asignaciones import realizar_asignacion
 from src.resultados import viajes_a_dataframe
 
@@ -57,8 +54,6 @@ def obtener_datos_sistema():
     except Exception as e:
         st.error(f"Error de conexión con la base de datos: {e}")
         return None, None, None
-
-# --- Lógica de Interfaz ---
 
 st.title("🚐 Gestión de Transporte Diario")
 
